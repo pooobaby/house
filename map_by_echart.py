@@ -78,7 +78,7 @@ def main():
     housemap = HouseMap()
     housemap.house_data()
     housemap.visual().render('map_by_echart.html')
-    print('数据地图生成完毕，请打开浏览器查看......')
+    print('数据地图生成完毕，请打开浏览器查看，多谢......')
 
 
 if __name__ == '__main__':
